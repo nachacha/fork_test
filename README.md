@@ -2,4 +2,5 @@
 Test repository for collaboration
 
 ## 共同編集者
-1．竹田 恒
+1．竹田 恒  
+2.上村瞬間
