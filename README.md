@@ -2,7 +2,7 @@
 Test repository for collaboration
 
 ## 共同編集者
-1．竹田 恒  
+1．竹田 恒　　
 1. 須藤 匠  
 1. 豊泉 勇太  
 1. 飯村和生  
